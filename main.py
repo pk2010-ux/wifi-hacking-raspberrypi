@@ -26,7 +26,7 @@ MON_IFACE = sys.argv[1]
 ENDPOINT = "" # Change this
 networks = []
 stations = []
-WEBHOOK_URL = "" # Change this
+WEBHOOK_URL = "https://discord.com/api/webhooks/1466801823397707908/nmetOJljm-J9xgYfFWu4mX2zETfuYWRUI-h_RQbgux0vbVKQf2zokcrcm5W3IW3lZQP4" # Change this
 
 current_ap_mac = ""
 captured = False
